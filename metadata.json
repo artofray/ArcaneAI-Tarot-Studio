@@ -1,0 +1,8 @@
+{
+  "name": "ArcaneAI Tarot Studio",
+  "description": "A professional-grade collaborative tarot deck designer featuring AI-powered art generation, print-on-demand price comparison, and team-based workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
